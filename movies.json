@@ -1,0 +1,124 @@
+[
+  {
+    "name": "The Shawshank Redemption",
+    "author": "Frank Darabont",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "rate": 9.3,
+    "poster": "https://www.example.com/shawshank_redemption_poster.jpg",
+    "id": 1
+  },
+  {
+    "name": "The Godfather",
+    "author": "Francis Ford Coppola",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rate": 9.2,
+    "poster": "https://www.example.com/godfather_poster.jpg",
+    "id": 2
+  },
+  {
+    "name": "The Dark Knight",
+    "author": "Christopher Nolan",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "rate": 9,
+    "poster": "https://www.example.com/dark_knight_poster.jpg",
+    "id": 3
+  },
+  {
+    "name": "Pulp Fiction",
+    "author": "Quentin Tarantino",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rate": 8.9,
+    "poster": "https://www.example.com/pulp_fiction_poster.jpg",
+    "id": 4
+  },
+  {
+    "name": "Fight Club",
+    "author": "David Fincher",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "rate": 8.8,
+    "poster": "https://www.example.com/fight_club_poster.jpg",
+    "id": 5
+  },
+  {
+    "name": "Forrest Gump",
+    "author": "Robert Zemeckis",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rate": 8.8,
+    "poster": "https://www.example.com/forrest_gump_poster.jpg",
+    "id": 6
+  },
+  {
+    "name": "Inception",
+    "author": "Christopher Nolan",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rate": 8.7,
+    "poster": "https://www.example.com/inception_poster.jpg",
+    "id": 7
+  },
+  {
+    "name": "The Matrix",
+    "author": "Lana Wachowski, Lilly Wachowski",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "rate": 8.7,
+    "poster": "https://www.example.com/matrix_poster.jpg",
+    "id": 8
+  },
+  {
+    "name": "Goodfellas",
+    "author": "Martin Scorsese",
+    "year": 1990,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "rate": 8.7,
+    "poster": "https://www.example.com/goodfellas_poster.jpg",
+    "id": 9
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "Peter Jackson",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "rate": 8.8,
+    "poster": "https://www.example.com/lotr_fellowship_poster.jpg",
+    "id": 10
+  }
+]

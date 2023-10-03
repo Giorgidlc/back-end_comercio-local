@@ -1,0 +1,37 @@
+### Recuperar todas las películas
+GET http://localhost:3000/movies
+
+### Recuperar una película por id
+GET http://localhost:3000/movies/2
+
+### Recuperar todas las películas por género
+GET http://localhost:3000/movies?genres=crime
+
+### Crear una pélicula
+POST http://localhost:3000/movies
+Content-Type: application/json
+
+{
+    "name": "Mi segunda pelicula",
+    "author": "De León",
+    "year": 2023,
+    "genres": [
+      "Crime",
+      "Terror"
+    ],
+    "rate": 9,
+    "poster": "https://www.example.com/godfather_poster.jpg"
+  }
+
+### Actualizar peli
+PATCH http://localhost:3000/movies/781a35e6-c7e0-468f-a663-23032f27191d
+Content-Type: application/json
+
+{
+  "name": "Mi primera peli",
+  "year": 1992
+}
+
+### Eliminar una peli
+DELETE  http://localhost:3000/movies/2a7faadc-d5f1-4cb2-a8a0-ad143260dbc9
+
